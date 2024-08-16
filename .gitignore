@@ -2,3 +2,4 @@
 #!*.go
 #!*.bnf
 #!*.md
+.DS_Store
