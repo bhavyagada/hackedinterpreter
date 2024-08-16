@@ -1,5 +1,9 @@
 # HackedInterpreter
 
+I renamed the interpreter to Xene to better fit my project, which is built on top of it. 
+
+Credit goes to the original author [Florian](https://github.com/boombuler).
+
 HackedInterpreter is a featurecomplete interpreter for the H language which is used in http://hackedapp.com. This interpreter has supports C-style comments in code files, which the original language doesn't at the moment.
 
 ## Compiling
